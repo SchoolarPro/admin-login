@@ -55,19 +55,20 @@ DASHBOARDADMIN/
 ### Steps
 
 1. Clone the repository
-   
+   ```
    git clone https://github.com/SchoolarPro/admin-login.git
    cd login
-   
+   ```
 
 2. Install dependencies
-   
+   ```
    npm install
    # or
    yarn install
-   
+   ```
 3. Start development server
-   
+   ```
    npm run dev
    # or
    yarn dev
+   ```
