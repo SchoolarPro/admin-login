@@ -11,7 +11,7 @@ A modern, responsive landing page for bEasy - a comprehensive cleaning and movin
 - Package Manager: npm
 
 ## 📁 Project Structure
-
+```
 DASHBOARDADMIN/
 └── login/
     ├── public/
@@ -44,7 +44,7 @@ DASHBOARDADMIN/
     ├── tsconfig.app.json
     ├── tsconfig.node.json
     └── vite.config.ts
-
+```
 ## 🚀 Installation
 
 ### Prerequisites
@@ -56,7 +56,7 @@ DASHBOARDADMIN/
 1. Clone the repository
    
    git clone https://github.com/your-username/bEasy_LandingPage.git
-   cd bEasy_LandingPage/landingpage
+   cd login
    
 
 2. Install dependencies
@@ -65,23 +65,8 @@ DASHBOARDADMIN/
    # or
    yarn install
    
-
 3. Start development server
    
    npm run dev
    # or
    yarn dev
-   
-
-4. Open browser
-   Navigate to http://localhost:5173
-
-## 💻 Usage
-
-### Development Commands
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
