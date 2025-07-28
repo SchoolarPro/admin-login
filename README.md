@@ -49,13 +49,14 @@ DASHBOARDADMIN/
 
 ### Prerequisites
 - Node.js (v14.0.0 or higher)
+- Tailwind (v4)
 - npm or yarn package manager
 
 ### Steps
 
 1. Clone the repository
    
-   git clone https://github.com/your-username/bEasy_LandingPage.git
+   git clone https://github.com/SchoolarPro/admin-login.git
    cd login
    
 
